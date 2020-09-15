@@ -1,5 +1,7 @@
 ### Iam Sanjeevan 👋
 
+<img src="https://raw.githubusercontent.com/rsanjeeban/rsanjeeban/master/.github/workflows/Github%20PSD.jpg" alt="banner that says Sanjeevan Rajakulasingam - software engineer, full stack alongside a cartoon illustration of Sanjeevan">
+
 Passionate Software Engineer ✨ with a demonstrated history of working in the information technology and services industry. Skilled in Vue.js, Angular.js, React.js, React Native, Flutter, JavaFX, Spring, Oracle, MongoDB, Laravel, CodeIgniter, CI/CD and Web Services API. Knowledge of Agile methodology. Strong engineering professional.
 
 Known Environments : Java, C#, PHP, Node.js 
