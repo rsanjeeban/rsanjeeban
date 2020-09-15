@@ -8,7 +8,7 @@ Known Environments : Java, C#, PHP, Node.js
 
 - 🔭 I’m currently working on SpeedCodeLabs! :wink: 
 - 🌱 I’m currently learning everything
-- 💬 Ask me about anything related to Javascript/Vue.Js/Laravel
+- 💬 Ask me about anything related to Javascript/Vue.Js/.Net/Laravel
 - 📫 How to reach me: [@rsanjeeban](https://www.linkedin.com/in/rsanjeevan)
 
 
